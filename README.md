@@ -21,7 +21,7 @@ Buttons & Bookmarks for navigation
 
 Custom Icons & Images for enhanced design
 
-# 🌟 Features & Highlights
+## 🌟 Features & Highlights
 ✅ City-wise Sales Mapping: Easily spot top-selling regions using the India map with real-time data points
 🧑‍💼 Brand Competition Overview: Instantly compare Motorola with competitors like Apple, Samsung, Vivo, etc.
 🎯 Monthly Quantity Trends: Understand sales fluctuations month over month with clean line charts
@@ -30,13 +30,13 @@ Custom Icons & Images for enhanced design
 🤖 Dashboard Navigation: Use built-in buttons for smooth transitions between views
 📉 Customer Feedback Funnel: Track customer ratings and satisfaction visually
 
-# 📂 File Info
+## 📂 File Info
 This project is built entirely in Power BI Desktop (.pbix) format and uses a mix of DAX measures, slicers, and custom visuals to deliver a fluid user experience.
 
-# ⚠️ Note
+## ⚠️ Note
 To ensure full interactivity, use the dashboard in Power BI Desktop or Power BI Service (if published). Filters, slicers, and buttons are fully functional only in these environments.
 
-# 🖼️ Preview
+## 🖼️ Preview
 📷 Dashboard Preview (Mobile Sales Across India)
 
 
