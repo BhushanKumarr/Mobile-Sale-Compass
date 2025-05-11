@@ -1,5 +1,5 @@
 # 📱 Mobile Sales Performance Dashboard (Power BI)
-# 📝 Project Overview
+## 📝 Project Overview
 This Power BI dashboard provides a dynamic and insightful look into mobile sales performance across India, helping users explore brand-wise performance, customer feedback, sales by city, and key transaction metrics. It highlights how top brands like Apple, Samsung, and OnePlus are competing — and how their sales vary across models, months, and regions.
 
 Whether you're tracking brand performance, exploring market trends, or just showcasing your Power BI skills — this dashboard delivers powerful insights in a clean, interactive format.
